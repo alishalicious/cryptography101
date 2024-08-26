@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.gg/DpXy8CpN4U',
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: 'https://github.com/iamhoor/cryptography101',
   footer: {
     text: '© 2024 Cryptography101',
   },
