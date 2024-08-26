@@ -100,7 +100,7 @@ If you encounter any bugs or have feature requests, please use the [Issues page]
 
 ### How to Report an Issue
 
-1. Go to the [Issues page](issues).
+1. Go to the Issues page.
 2. Click on "New issue."
 3. Choose the appropriate template (Bug Report or Feature Request).
 4. Fill in the details and submit the issue.
