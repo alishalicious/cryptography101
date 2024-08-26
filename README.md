@@ -96,7 +96,17 @@ Thank you for considering contributing to Cryptography101! We welcome contributi
 
 ## Reporting Issues
 
-If you find any bugs or have suggestions, please open an issue on the [Issues page](https://github.com/your-username/cryptography101.org/issues).
+If you encounter any bugs or have feature requests, please use the [Issues page](issues) to report them. We appreciate your feedback and will do our best to address it promptly.
+
+### How to Report an Issue
+
+1. Go to the [Issues page](issues).
+2. Click on "New issue."
+3. Choose the appropriate template (Bug Report or Feature Request).
+4. Fill in the details and submit the issue.
+
+Thank you for helping us improve Cryptography101!
+
 
 ## Code of Conduct
 
