@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
-    text: 'Crack the code, master the craft',
+    text: '© 2024 Cryptography101',
   },
 }
 
