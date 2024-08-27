@@ -11,13 +11,10 @@ Start by forking this repository to your own GitHub account.
 
 Next, clone your forked repository to your local machine:
 
-bash
 
 git clone https://github.com/your-username/cryptography101.git
 
 Change directory into the cloned repository:
-
-bash
 
 cd cryptography101
 
@@ -29,8 +26,6 @@ Make Your Changes
 
 Create a new branch for your work:
 
-bash
-
 git checkout -b feature/your-feature-name
 
 Write your code, documentation, or fix bugs.
@@ -41,13 +36,9 @@ Commit and Push
 
 Commit your changes with a descriptive message:
 
-bash
-
 git commit -m "Add feature: Implement RSA encryption"
 
 Push your changes to your forked repository:
-
-bash
 
 git push origin feature/your-feature-name
 
