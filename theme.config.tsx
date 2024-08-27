@@ -2,6 +2,11 @@ import React from 'react'
 import { DocsThemeConfig } from 'nextra-theme-docs'
 
 const config: DocsThemeConfig = {
+  useNextSeoProps(){
+    return{
+      titleTemplate: '%s | Cryptography101- your ultimate handbook for cyrptography and stuff'
+    }
+  }
   logo: <span>Cryptography101</span>,
   project: {
     link: 'https://github.com/iamhoor/cryptography101',
