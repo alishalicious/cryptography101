@@ -6,7 +6,7 @@ const config: DocsThemeConfig = {
     return{
       titleTemplate: '%s | Cryptography101- your ultimate handbook for cyrptography and stuff'
     }
-  }
+  },
   logo: <span>Cryptography101</span>,
   project: {
     link: 'https://github.com/iamhoor/cryptography101',
