@@ -9,12 +9,12 @@ const config: DocsThemeConfig = {
   },
   logo: <span>Cryptography101</span>,
   project: {
-    link: 'https://github.com/iamhoor/cryptography101',
+    link: 'https://github.com/alishalicious',
   },
   chat: {
     link: 'https://discord.gg/DpXy8CpN4U',
   },
-  docsRepositoryBase: 'https://github.com/iamhoor/cryptography101/tree/main',
+  docsRepositoryBase: 'https://github.com/alishalicious/cryptography101/tree/main',
   footer: {
     text: '© 2024 Cryptography101',
   },
