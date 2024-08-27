@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   },
   logo: <span>Cryptography101</span>,
   project: {
-    link: 'https://github.com/alishalicious',
+    link: 'https://github.com/alishalicious/cryptography101',
   },
   chat: {
     link: 'https://discord.gg/DpXy8CpN4U',
