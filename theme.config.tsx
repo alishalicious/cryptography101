@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
       titleTemplate: '%s | Cryptography101- your ultimate handbook for cyrptography and stuff'
     }
   },
-  logo: <span>Cryptography101</span>,
+  logo: <span>Cryptography 101</span>,
   project: {
     link: 'https://github.com/alishalicious/cryptography101',
   },
@@ -16,7 +16,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://github.com/alishalicious/cryptography101/tree/main',
   footer: {
-    text: '© 2024 Cryptography101',
+    text: '© 2024 Cryptography 101',
   },
   head: (
     <>
